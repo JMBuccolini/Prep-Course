@@ -1,0 +1,24 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("https://i.pinimg.com/originals/17/04/b6/1704b6fdb211b14d83fba7dd786dbbb8.jpg");
+}
+
+
+
+img {
+    width: 250px;
+      
+}
+
+div {
+    background-color: bisque;
+    opacity: 85%;
+}
+
+#divPorque{
+    background-color: #F4F705;
+    opacity: 100%;
+}
+
+
+
